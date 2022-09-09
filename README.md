@@ -1,2 +1,2 @@
 # HazirMetotlar_Datetime_Math
-Datetime ve Math hazir metotları
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir.
